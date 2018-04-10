@@ -1,3 +1,3 @@
 # Assignment 1 (Mar 11, 2018) 
 
-My current work info with R programming is [Here](oguzocal.html).
+My current work info with R programming is [Here](Assignment_1.html).
